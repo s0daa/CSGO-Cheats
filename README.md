@@ -20,3 +20,6 @@
 - Plaguecheat V5
 - Aimware.pl V5.1.13
 - FloridaHook
+- OTC3
+- GameSense Crack
+- Primordial Crack
